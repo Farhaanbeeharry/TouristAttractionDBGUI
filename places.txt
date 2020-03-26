@@ -1,0 +1,14 @@
+Casela Nature Park--09:00--500.0--5--Yes
+Central Market--06:00--0.0--1--No
+Bagatelle Mall--10:00--0.0--10--No
+Grand Bassin--08:00--0.0--5--No
+L'aventure Du Sucre--09:30--300.0--3--Yes
+Mahebourg Market--06:00--0.0--1--No
+Le Craft Market--09:00--100.0--3--Yes
+Light House Of Albion--10:00--200.0--1--No
+Chateau De Labourdonnais--11:00--1000.0--8--Yes
+Sugar Museum--10:00--100.0--2--No
+Ile Aux Cerfs Island--09:30--1500.0--14--Yes
+Aapravasi Ghat--09:00--0.0--2--No
+Lakaz Mama--00:00--1000.0--10--Yes
+Phoenix Mall--10:00--0.0--7--No
